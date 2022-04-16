@@ -17,4 +17,11 @@ git push -u origin master
 git pull origin master
 git commit -m "Any message related to commits"
 //git new changes
-// press Q when u want to quit git Bash
+// press Q when u want to exit git Bash
+
+git diff filname.txt
+git diff
+git diff --staged filename.txt
+git reset filename.txt
+git checkout . // to get all previous files
+git checkout filename.txt //to get particular previous file
