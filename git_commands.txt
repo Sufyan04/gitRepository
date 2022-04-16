@@ -17,3 +17,4 @@ git push -u origin master
 git pull origin master
 git commit -m "Any message related to commits"
 //git new changes
+// press Q when u want to quit git Bash
