@@ -1,0 +1,18 @@
+git --version
+git init
+git status
+git add .
+git commit -m "version 1"
+git log
+git --global user.email "khansufyan948@gmail.com"
+git --global user.name "khan"
+
+git config user.name //gives name of author
+git config user.email //gives email of author
+
+git remote add origin "URL"
+git push -u origin master
+
+
+git pull origin master
+git commit -m "Any message related to commits"
